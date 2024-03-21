@@ -1,0 +1,6 @@
+if SHIELD_SG_MAGICDECK
+
+config ZMK_KEYBOARD_NAME
+    default "SG MagicDeck"
+
+endif
